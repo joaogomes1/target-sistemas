@@ -8,8 +8,8 @@ json_path = os.path.dirname(this_path) + "\\dados.json"
 # abrir arquivo json
 with open(json_path) as json_arq:
     dados = json.load(json_arq)
-    valores = list(()) # para cálculos gerais
-    valores_nao_nulos = list(()) # para cálculo da média
+    valores = list() # para cálculos gerais
+    valores_nao_nulos = list() # para cálculo da média
     media = 0
     dias_faturamento_superior_media = 0
  
