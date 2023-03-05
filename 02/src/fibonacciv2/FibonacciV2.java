@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author joaob
+ * @author João Ricardo de Souza Gomes
  */
 public class FibonacciV2 {
 

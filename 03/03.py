@@ -1,3 +1,5 @@
+### Autor: João Ricardo de Souza Gomes
+
 import os
 import json
  

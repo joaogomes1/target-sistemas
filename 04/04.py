@@ -1,3 +1,5 @@
+### Autor: João Ricardo de Souza Gomes
+
 Dict = [ {"estado": "SP", "faturamento" : 67836.43},
          {"estado": "RJ", "faturamento" : 36678.66},
          {"estado": "MG", "faturamento" : 29229.88},
